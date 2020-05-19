@@ -6,8 +6,8 @@ require-mschap-v2
 require-mppe-128
 
 # Network and Routing
-ms-dns 8.8.8.8
-ms-dns 8.8.4.4
+ms-dns 202.106.0.20
+ms-dns 202.106.196.115
 proxyarp
 nodefaultroute
 
